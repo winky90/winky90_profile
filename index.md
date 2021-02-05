@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to winky90 Profile pages
 
 You can use the [editor on GitHub](https://github.com/winky90/winky90_profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
